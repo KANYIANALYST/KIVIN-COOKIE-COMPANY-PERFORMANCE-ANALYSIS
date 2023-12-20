@@ -32,8 +32,8 @@ Data transformation is the process of converting, cleansing, and structuring dat
 In this project data transformation was achieved through the use of Power BI Power Query which included:
 * Setting unit sold column to whole number.
 * Removing invalid columns.
-* 	Renaming of some column headers.
-* 		Merging of the cookie table and country population table.
+* Renaming of some column headers.
+* Merging of the cookie table and country population table.
 
 ## DATA VISUALIZATION
 Data visualization is a graphical representation of data such as charts, plots, info-graphics, and even animations. 
