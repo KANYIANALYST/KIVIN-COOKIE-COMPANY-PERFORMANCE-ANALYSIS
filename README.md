@@ -17,12 +17,12 @@ Business performance analysis is the process of quantifying a company’s perfor
 
 # PROJECT OBJECTIVE
 The primary objective of this project is to analyze the performance of the Kevin Cookie Company. The specific objectives includes:
-•	Identifying the profit trend over a given period of time between September 2018 to November 2019
-•	Assessing which product is selling in large quantity by finding out the sum units sold per product 
-•	Monitoring the profit distribution in the different countries buying from the company.
-•	Identifying which product is generating the highest profit to the company.
-•	Finding the relationship between the country population and the sum of units sold
-•	Identifying if the higher the sum unit sold translate to higher profit generated
+* •	Identifying the profit trend over a given period of time between September 2018 to November 2019
+* •	Assessing which product is selling in large quantity by finding out the sum units sold per product 
+* •	Monitoring the profit distribution in the different countries buying from the company.
+* •	Identifying which product is generating the highest profit to the company.
+* •	Finding the relationship between the country population and the sum of units sold
+* •	Identifying if the higher the sum unit sold translate to higher profit generated
 
 
 
