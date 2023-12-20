@@ -50,7 +50,9 @@ Insights be derived from datasets by identifying patterns and relationships usin
 
 # DISCUSSION
 The outcomes of this analysis have provided insight on the company performance over time with a positive trend observed in the comparison between the year 2018 and 2019. However, in the month of November 2019 there was a drop in profit compared to the previous year. This drop in profit on the month of November 2019 could be resulting from low stocks. 
+
 It could be expected that the higher the sum of units products sold would equate to higher profits. On the contrary, higher sum of units sold does not translate to higher profit as observed in the case of snickerdoodles which has the lowest sum of units sold yet it is forth highest in profit generation. Similarly, it could be expected that the country with the highest population would have the highest sum of units sold and or highest sum of profit which is not the case. United States has the highest population yet it falls at the third level for the sum of units products sold and sum profit generated while Canada has the lowest population yet with the highest sum of units sold and sum of profit generated.
+
 The challenge in this analysis is that the data is fictional and hence it may be hard to identify the cause of low profit in some months.
 
 # CONCLUSION 
